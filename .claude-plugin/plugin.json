@@ -1,0 +1,6 @@
+{
+  "name": "ui-skills",
+  "description": "Verified UI design-system skills for AI coding agents. Real tokens only (npm/GitHub sourced), CVD-validated chart palettes, and an extractor skill to add your own systems.",
+  "version": "0.1.0",
+  "author": { "name": "T-Yamada7" }
+}

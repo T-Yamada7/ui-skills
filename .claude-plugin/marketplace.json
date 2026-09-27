@@ -1,0 +1,11 @@
+{
+  "name": "ui-skills",
+  "owner": { "name": "T-Yamada7" },
+  "plugins": [
+    {
+      "name": "ui-skills",
+      "source": "./",
+      "description": "検証済みUIデザインシステムスキル集（DADS ほか）＋抽出メタスキル"
+    }
+  ]
+}
